@@ -31,7 +31,7 @@ A fully automatic, energy-efficient system that keeps your drinking water at the
 - ~40 % lower electricity bill compared to always-running kettle or water chiller  
 - Zero noise (except quiet fans)  
 - No moving parts except fans → extremely reliable  
-- Low cost (entire build under ₹3500–4500)  
+- Low cost (entire build under ₹1500-2000)  
 - Completely set-it-and-forget-it operation
 
 ### Components List
